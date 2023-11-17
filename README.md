@@ -1,6 +1,6 @@
 # Project Details
 
-This project takes data from a museum and returns it in a readable way. Creating visual graphs in a Tableau dashboard to help interpretation. Each Dashboard is customised to the users needs. E.g. Rita's dashboard shows emergency and assistance information as she is the head of visitor safety & security. Angela's dashboard shows visitor ratings and satisfaction related data as she is the exhibition manager who is focussed on increasing visitor engagement and satisfaction.
+This project takes data from a museum and returns it in a readable way. Creating visual graphs in a Tableau dashboard to help interpretation. Each Dashboard is customized to the users needs. E.g. Rita's dashboard shows emergency and assistance information as she is the head of visitor safety & security. Angela's dashboard shows visitor ratings and satisfaction related data as she is the exhibition manager who is focussed on increasing visitor engagement and satisfaction.
 
 An example dashboard for each person is shown here:
 
@@ -16,7 +16,7 @@ Extracts data from a kafka cluster and goes through the code to check if the mes
 
 ## Installation and Instructions
 
-1. Create a new virtual environment and enter into it. 
+1. Create a new virtual environment and enter into it. E.g. `python3 -m venv venv` then `source ./venv/bin/activate`.
 2. Run `pip3 install - requirements.txt`.
 3. Install Docker.
 4. Create an AWS RDS.

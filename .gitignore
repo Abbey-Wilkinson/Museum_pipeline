@@ -90,5 +90,8 @@ venv/
 .env
 
 .terraform
+terraform.tfvars
+terraform.tfstate.backup
+terraform.tfstate
 
 key_pair
